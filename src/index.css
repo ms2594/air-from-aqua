@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-/* AquaTech Design System - Premium atmospheric water generation technology
+/* Sustainable Solutions DR Design System - Premium atmospheric water generation technology
 All colors MUST be HSL for proper theming.
 */
 
@@ -86,7 +86,7 @@ All colors MUST be HSL for proper theming.
   }
 
   .dark {
-    /* Dark theme for AquaTech */
+    /* Dark theme for Sustainable Solutions DR */
     --background: 215 30% 8%;
     --foreground: 210 40% 95%;
 

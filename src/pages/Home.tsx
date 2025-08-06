@@ -68,7 +68,7 @@ const Home = () => {
               <div className="absolute inset-0 bg-gradient-accent opacity-20 rounded-3xl blur-3xl"></div>
               <img
                 src={heroImage}
-                alt="AquaTech Atmospheric Water Generator"
+                alt="Sustainable Solutions DR Atmospheric Water Generator"
                 className="relative w-full h-auto rounded-2xl shadow-strong"
               />
             </div>
@@ -81,7 +81,7 @@ const Home = () => {
         <div className="container mx-auto px-4">
           <div className="text-center space-y-4 mb-12">
             <h2 className="text-3xl md:text-4xl font-bold text-foreground">
-              Why Choose AquaTech?
+              Why Choose Sustainable Solutions DR?
             </h2>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
               Our cutting-edge technology delivers unmatched performance, efficiency, and reliability in atmospheric water generation.

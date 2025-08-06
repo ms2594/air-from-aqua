@@ -28,7 +28,7 @@ const Navigation = () => {
             <div className="p-2 bg-gradient-primary rounded-lg shadow-medium group-hover:shadow-glow transition-all duration-300">
               <Droplets className="w-6 h-6 text-primary-foreground" />
             </div>
-            <span className="text-xl font-bold text-foreground">AquaTech</span>
+            <span className="text-xl font-bold text-foreground">Sustainable Solutions DR</span>
           </Link>
 
           {/* Desktop Navigation */}

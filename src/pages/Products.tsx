@@ -8,7 +8,7 @@ const Products = () => {
   const products = [
     {
       id: "residential",
-      name: "AquaTech Home",
+      name: "SS DR Home",
       category: "Residential",
       price: "$2,999",
       capacity: "5-15L/day",
@@ -28,7 +28,7 @@ const Products = () => {
     },
     {
       id: "commercial",
-      name: "AquaTech Business",
+      name: "SS DR Business",
       category: "Commercial", 
       price: "$8,999",
       capacity: "20-50L/day",
@@ -48,7 +48,7 @@ const Products = () => {
     },
     {
       id: "industrial",
-      name: "AquaTech Industrial",
+      name: "SS DR Industrial",
       category: "Industrial",
       price: "From $25,000",
       capacity: "100-500L/day",
@@ -68,7 +68,7 @@ const Products = () => {
     },
     {
       id: "mobile",
-      name: "AquaTech Mobile",
+      name: "SS DR Mobile",
       category: "Portable",
       price: "$4,999",
       capacity: "10-30L/day",

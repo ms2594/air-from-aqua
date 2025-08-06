@@ -186,7 +186,7 @@ const Technology = () => {
                   Our atmospheric water generation technology represents a paradigm shift toward sustainable water production. Unlike traditional methods that deplete groundwater or require extensive infrastructure, our systems work in harmony with natural atmospheric processes.
                 </p>
                 <p>
-                  Each AquaTech unit prevents the need for thousands of plastic bottles annually, while consuming significantly less energy than conventional water treatment facilities. The technology produces zero liquid waste and operates with minimal environmental footprint.
+                  Each Sustainable Solutions DR unit prevents the need for thousands of plastic bottles annually, while consuming significantly less energy than conventional water treatment facilities. The technology produces zero liquid waste and operates with minimal environmental footprint.
                 </p>
               </div>
               <div className="grid grid-cols-2 gap-6">

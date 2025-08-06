@@ -60,7 +60,7 @@ const About = () => {
               Transforming the Future of Water
             </h1>
             <p className="text-xl text-primary-foreground/90 leading-relaxed">
-              AquaTech was founded with a simple mission: to make clean, pure water accessible everywhere through revolutionary atmospheric water generation technology.
+              Sustainable Solutions DR was founded with a simple mission: to make clean, pure water accessible everywhere through revolutionary atmospheric water generation technology.
             </p>
           </div>
         </div>
@@ -74,13 +74,13 @@ const About = () => {
               <h2 className="text-3xl md:text-4xl font-bold text-foreground">Our Story</h2>
               <div className="space-y-4 text-muted-foreground">
                 <p>
-                  Founded in 2018 by a team of aerospace engineers and environmental scientists, AquaTech emerged from a critical need: providing clean water access in water-scarce regions.
+                  Founded in 2018 by a team of aerospace engineers and environmental scientists, Sustainable Solutions DR emerged from a critical need: providing clean water access in water-scarce regions.
                 </p>
                 <p>
                   After witnessing the global water crisis firsthand, our founders dedicated themselves to developing technology that could extract pure water from the air itself. Through years of research and innovation, we've created the most efficient atmospheric water generation systems on the market.
                 </p>
                 <p>
-                  Today, AquaTech serves customers across 50+ countries, providing sustainable water solutions for homes, businesses, and communities worldwide.
+                  Today, Sustainable Solutions DR serves customers across 50+ countries, providing sustainable water solutions for homes, businesses, and communities worldwide.
                 </p>
               </div>
               <Button asChild>
@@ -120,7 +120,7 @@ const About = () => {
           <div className="text-center space-y-4 mb-12">
             <h2 className="text-3xl md:text-4xl font-bold text-foreground">Our Values</h2>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-              The principles that guide everything we do at AquaTech.
+              The principles that guide everything we do at Sustainable Solutions DR.
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
@@ -147,7 +147,7 @@ const About = () => {
           <div className="text-center space-y-4 mb-12">
             <h2 className="text-3xl md:text-4xl font-bold text-foreground">Leadership Team</h2>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-              Meet the visionaries driving AquaTech's mission forward.
+              Meet the visionaries driving Sustainable Solutions DR's mission forward.
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
@@ -177,7 +177,7 @@ const About = () => {
               Join Our Mission
             </h2>
             <p className="text-xl text-primary-foreground/90">
-              Be part of the solution to global water challenges. Discover how AquaTech can transform your water supply.
+              Be part of the solution to global water challenges. Discover how Sustainable Solutions DR can transform your water supply.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button size="lg" variant="secondary" asChild>

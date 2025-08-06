@@ -12,7 +12,7 @@ const Footer = () => {
               <div className="p-2 bg-accent rounded-lg">
                 <Droplets className="w-6 h-6 text-accent-foreground" />
               </div>
-              <span className="text-xl font-bold">AquaTech</span>
+              <span className="text-xl font-bold">Sustainable Solutions DR</span>
             </div>
             <p className="text-primary-foreground/80 text-sm leading-relaxed">
               Revolutionary atmospheric water generation technology, transforming humidity into pure, clean drinking water.
@@ -74,7 +74,7 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center space-x-2">
                 <Mail className="w-4 h-4 text-accent" />
-                <span className="text-primary-foreground/80 text-sm">info@aquatech.com</span>
+                <span className="text-primary-foreground/80 text-sm">info@sustainablesolutionsdr.com</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Phone className="w-4 h-4 text-accent" />
@@ -93,7 +93,7 @@ const Footer = () => {
 
         <div className="border-t border-primary-foreground/20 mt-8 pt-8 text-center">
           <p className="text-primary-foreground/60 text-sm">
-            © 2024 AquaTech. All rights reserved. | Privacy Policy | Terms of Service
+            © 2024 Sustainable Solutions DR. All rights reserved. | Privacy Policy | Terms of Service
           </p>
         </div>
       </div>

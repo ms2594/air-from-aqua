@@ -46,7 +46,7 @@ const Contact = () => {
     {
       icon: <Mail className="w-6 h-6 text-accent" />,
       title: "Email",
-      details: "info@aquatech.com",
+      details: "info@sustainablesolutionsdr.com",
       description: "Get a response within 24 hours"
     },
     {
@@ -170,10 +170,10 @@ const Contact = () => {
                           <SelectValue placeholder="Select a product" />
                         </SelectTrigger>
                         <SelectContent>
-                          <SelectItem value="home">AquaTech Home (Residential)</SelectItem>
-                          <SelectItem value="business">AquaTech Business (Commercial)</SelectItem>
-                          <SelectItem value="industrial">AquaTech Industrial</SelectItem>
-                          <SelectItem value="mobile">AquaTech Mobile (Portable)</SelectItem>
+                          <SelectItem value="home">SS DR Home (Residential)</SelectItem>
+                          <SelectItem value="business">SS DR Business (Commercial)</SelectItem>
+                          <SelectItem value="industrial">SS DR Industrial</SelectItem>
+                          <SelectItem value="mobile">SS DR Mobile (Portable)</SelectItem>
                           <SelectItem value="custom">Custom Solution</SelectItem>
                         </SelectContent>
                       </Select>
@@ -260,7 +260,7 @@ const Contact = () => {
             {/* Quick Stats */}
             <Card className="bg-gradient-primary border-0 shadow-medium">
               <CardContent className="p-6 space-y-4">
-                <h3 className="text-xl font-bold text-primary-foreground">Why Choose AquaTech?</h3>
+                <h3 className="text-xl font-bold text-primary-foreground">Why Choose Sustainable Solutions DR?</h3>
                 <div className="space-y-3">
                   <div className="flex justify-between">
                     <span className="text-primary-foreground/80">Response Time</span>
