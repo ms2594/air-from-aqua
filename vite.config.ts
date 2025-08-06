@@ -5,6 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
+  base: '/sustainable-solutions-dr/',
   server: {
     host: "::",
     port: 8080,
@@ -20,11 +21,3 @@ export default defineConfig(({ mode }) => ({
     },
   },
 }));
-// vite.config.ts
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
-
-export default defineConfig({
-  base: '/sustainable-solutions-dr/', // ← CHANGE THIS to match your GitHub repo
-  plugins: [react()],
-})
